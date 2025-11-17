@@ -6,21 +6,29 @@ I build scalable Python apps & websites, handle data efficiently, and develop in
 💬 Ask me about: ETL, Pandas, NumPy, REST API, Django
 
 
-## 🛠️ Top Skills
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square" />
-</p>
+### 🚀 Tech Stack
+
+**Programming & Frameworks:**  
+🐍 Python • 🧱 Django • ⚡ RestAPI • 🌐 HTML • 🎨 CSS
+
+**Data & Analysis:**  
+📊 Pandas • 🔢 NumPy • 📈 EDA
+
+**Data Visualization & BI Tools:**  
+📊 Power BI • 📉 Tableau
+
+**Databases:**  
+🗄️ SQL • 🐘 PostgreSQL
+
+**Tools & Platforms:**  
+💻 Git • 🧰 VS Code 
+
 
 ---
 
 ## 🚀 Featured Projects
 
-### **📌 Django Blog**  
+### **📌 Django Blog Project**  
 *A Django blog platform with CRUD operations, authentication, and dynamic post rendering.*  
 🔗 https://github.com/rushi798/Django-Blog-project
 
