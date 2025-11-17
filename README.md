@@ -7,22 +7,29 @@ I build scalable Python apps, data pipelines, and interactive dashboards.
 
 ---
 
-## 📈 GitHub Stats
-![Rushikesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushikeshdeshmukh&show_icons=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshdeshmukh&layout=compact)
-
----
-
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
+---
 
+## 🚀 Featured Projects
+- **Project A** — (Add one-liner summary here)  
+  🔗 *Repo:* https://github.com/rushikeshdeshmukh/PROJECT_A
+
+- **Project B** — (Add one-liner summary here)  
+  🔗 *Repo:* https://github.com/rushikeshdeshmukh/PROJECT_B
+
+- **Project C** — (Add one-liner summary here)  
+  🔗 *Repo:* https://github.com/rushikeshdeshmukh/PROJECT_C
+
+> 👉 Send me your project names + 1 line description, and I will format them perfectly.
+
+---
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-deshmukh-92307a272/)  
@@ -30,4 +37,4 @@ I build scalable Python apps, data pipelines, and interactive dashboards.
 
 ---
 
-⭐ *If you like my work, consider starring my repositories!*
+⭐ *Thanks for visiting my profile!*
