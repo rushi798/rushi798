@@ -5,12 +5,6 @@ I build scalable Python apps & websites, handle data efficiently, and develop in
 🌱 Currently exploring Artificial Intelligence and Machine Learning.  
 💬 Ask me about: ETL, Pandas, NumPy, REST API, Django
 
----
-
-## 👁️ Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=rushi798&color=blue&style=for-the-badge)
-
----
 
 ## 🛠️ Top Skills
 <p align="left">
