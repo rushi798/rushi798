@@ -19,15 +19,13 @@ I build scalable Python apps, data pipelines, and interactive dashboards.
 
 ## 🚀 Featured Projects
 - **Django Blog** — (A Django blog platform with CRUD operations, authentication, and dynamic post rendering.)  
-  🔗 *Repo:* https://github.com/rushikeshdeshmukh/PROJECT_A
+  🔗 https://github.com/rushi798/Django-Blog-project
+  
+- **Movie Review API** — (Django-based API for storing and managing movie reviews.)
+  🔗 https://github.com/rushi798/Movie-Review-API
 
-- **Project B** — (Add one-liner summary here)  
-  🔗 *Repo:* https://github.com/rushikeshdeshmukh/PROJECT_B
-
-- **Project C** — (Add one-liner summary here)  
+- **Exploratory Data Analysis** — (Conducted comprehensive EDA using Python, Pandas, NumPy, and visualization tools to identify key patterns and data relationships.)  
   🔗 *Repo:* https://github.com/rushikeshdeshmukh/PROJECT_C
-
-> 👉 Send me your project names + 1 line description, and I will format them perfectly.
 
 ---
 
@@ -37,4 +35,4 @@ I build scalable Python apps, data pipelines, and interactive dashboards.
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+⭐ *If you like my work, consider starring my repositories!*
