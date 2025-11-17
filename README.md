@@ -5,8 +5,9 @@ I build scalable Python apps & websites, handle data efficiently, and develop in
 🌱 Currently exploring Artificial Intelligence and Machine Learning.  
 💬 Ask me about: ETL, Pandas, NumPy, REST API, Django
 
+---
 
-### 🚀 Tech Stack
+## 🚀 Tech Skills
 
 **Programming & Frameworks:**  
 🐍 Python • 🧱 Django • ⚡ RestAPI • 🌐 HTML • 🎨 CSS
@@ -22,7 +23,6 @@ I build scalable Python apps & websites, handle data efficiently, and develop in
 
 **Tools & Platforms:**  
 💻 Git • 🧰 VS Code 
-
 
 ---
 
