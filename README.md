@@ -1,4 +1,4 @@
-# Hi, I'm Rushikesh 👋  
+# Hi, I'm Rushikesh Deshmukh👋  
 **Software Engineer | Data Enthusiast | Open-source Contributor**
 
 I build scalable Python apps, data pipelines, and interactive dashboards.  
@@ -7,7 +7,7 @@ I build scalable Python apps, data pipelines, and interactive dashboards.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Top Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
@@ -18,7 +18,7 @@ I build scalable Python apps, data pipelines, and interactive dashboards.
 ---
 
 ## 🚀 Featured Projects
-- **Project A** — (Add one-liner summary here)  
+- **Django Blog** — (A Django blog platform with CRUD operations, authentication, and dynamic post rendering.)  
   🔗 *Repo:* https://github.com/rushikeshdeshmukh/PROJECT_A
 
 - **Project B** — (Add one-liner summary here)  
