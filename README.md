@@ -43,7 +43,7 @@ I build scalable Python apps & websites, handle data efficiently, and develop in
 ---
 
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/rushikesh-deshmukh-92307a272/)  
+Connect with Me - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/rushikesh-deshmukh-92307a272/)  
 
 📧 **Email:** *rushideshmukh798@gmail.com*
 
